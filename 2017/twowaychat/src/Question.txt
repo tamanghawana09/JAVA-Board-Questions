@@ -1,0 +1,2 @@
+Write a connection oriented socket program which can exchange the message
+between server and client once the connection is established.
