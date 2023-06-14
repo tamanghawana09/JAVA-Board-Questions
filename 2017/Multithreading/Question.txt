@@ -1,0 +1,1 @@
+Explain two ways of creating thread with example.
