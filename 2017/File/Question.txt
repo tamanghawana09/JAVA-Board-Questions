@@ -1,0 +1,2 @@
+Create a DataInputStream for a file name "purbanchal.dat"
+and store "I am student of BIT VI Semester" in that file
