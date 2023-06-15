@@ -1,0 +1,2 @@
+Write a program using RMI technology to send two numbers to the server and the server returning the
+greatest number between them.
