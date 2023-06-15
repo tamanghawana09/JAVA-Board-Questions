@@ -1,0 +1,2 @@
+Write a java program using JDBC to extract name of those students who live in Morang
+district, assuming that student table has four attributes (ID, name, district,and age).
