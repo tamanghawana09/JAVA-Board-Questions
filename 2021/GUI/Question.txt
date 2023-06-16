@@ -1,0 +1,3 @@
+Create Swing application that receive two numbers through a JTextFields and display
+the multiplication of two numbers in a JTextField when the OK button is pressed and
+when Exit button is pressed the program will terminate.
