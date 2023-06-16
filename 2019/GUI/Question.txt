@@ -1,0 +1,2 @@
+Create Swing application that receive a number through a JTextFields and display
+the square of numbers in a JTextField when the SQUARE button is pressed.
