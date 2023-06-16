@@ -1,0 +1,2 @@
+Make a thread using runnable interface to display number from
+1 to 20; each number should be displayed i the interval of 2 seconds
