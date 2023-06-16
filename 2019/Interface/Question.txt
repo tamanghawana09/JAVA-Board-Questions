@@ -1,0 +1,1 @@
+Develop a java code to implement the interface concept for finding the sum and average of given N number.
