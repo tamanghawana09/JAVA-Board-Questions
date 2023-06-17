@@ -1,0 +1,2 @@
+Write a TCP socket program to send "Hello Server" text to the remote machine
+listening on 9999 port and having 192.168.10.20 IP address
