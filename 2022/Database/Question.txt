@@ -1,0 +1,7 @@
+Write a JDBC connection program with following details.
+a) Driver: com.mysql.jdbc.Driver
+b) Host: localhost
+c) Database: students
+d) User: root
+e) Password: secret
+f) Port: 3306
