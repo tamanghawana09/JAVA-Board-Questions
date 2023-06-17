@@ -1,0 +1,2 @@
+WAP which will display your name in one thread and your address
+in another thread in every 500 milliseconds . There should be 10000 iterations.
