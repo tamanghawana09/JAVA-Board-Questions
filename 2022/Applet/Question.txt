@@ -1,0 +1,1 @@
+Write an applet program to calculate x^y where both x and y are integers.
