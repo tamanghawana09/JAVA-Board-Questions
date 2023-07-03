@@ -3,7 +3,7 @@ import java.io.IOException;
 public class MyThread implements Runnable{
     @Override
     public void run() {
-        for(int i=1;i<=10;i++) {
+        for(int i=1;i<=20;i++) {
             System.out.println("Thread: " + i);
             try {
                 Thread.sleep(2000);
