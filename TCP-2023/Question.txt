@@ -1,0 +1,1 @@
+Write a program to create a chat application using TCP protocol and chat ends when any one of client and server says "goodbye".
